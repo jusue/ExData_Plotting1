@@ -1,5 +1,5 @@
 #Set directory to that with household_power_consumption.txt
-#setwd("your own working directory here") 
+setwd("your own working directory here") 
 
 #Load libraries
 library(lubridate)
